@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Implicit Intents</string>
+  <string name="link">Link</string>
+  <string name="map_link">Map link</string>
+  <string name="map_geo">Map geo</string>
+  <string name="dial">Dial a number</string>
+  <string name="gallery">Pick image</string>
+  <string name="send_text">Send text</string>
+  <string name="send_image">Send image</string>
+  <string name="send_email">Send email</string>
+  <string name="no_image_picked_error">Please pick an image before sending</string>
+  <string name="send_to">Send to</string>
+</resources>
